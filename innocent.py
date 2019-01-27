@@ -128,4 +128,4 @@ async def destroy(ctx):
                 pass
         print ("Action Completed: destroy")
 
-bot.run(token, bot=False)
+bot.run(token, bot=True)
